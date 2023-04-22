@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: tutorialmod
+Specification-Vendor: tutorialmodsareus
+Specification-Version: 1
+Implementation-Title: mod
+Implementation-Version: 0.0.1-1.19
+Implementation-Vendor: tutorialmodsareus
+Implementation-Timestamp: 2023-04-22T17:53:29+0100
+
